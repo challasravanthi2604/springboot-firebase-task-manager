@@ -1,16 +1,16 @@
 # Cloud-Based Task Manager API
 
 ## Technologies
-Java
-Spring Boot
-Firebase Firestore
-Docker
+Java,
+Spring Boot,
+Firebase Firestore,
+Docker,
 Swagger UI
 
 ## Features
-Create Task
-Get Tasks
-Update Task
+Create Task,
+Get Tasks,
+Update Task,
 Delete Task
 
 ## Run Application
